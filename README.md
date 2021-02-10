@@ -46,3 +46,5 @@ python3 server2.py
 Para testar podes executar localmente o programa configurar_webhook.py. Note que o programa configurar_webhook deve ser preenchido com seu webhookUrl correto definido na configuração anterior.
 O programa vai informar a PSP Gerencianet seu webhookUrl.
 Agora basta criar uma cobrança, fazer o pagamento e conferir o arquivo data.txt, que vai receber a confirmação do pagamento.
+
+No arquivo server2.py existem algumas linhas comentadas para que você faça seus testes. Bons códigos!
